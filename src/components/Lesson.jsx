@@ -12,6 +12,9 @@ const Lesson = () => {
           ))}
         </div>
       </div>
+      <div className="btn">
+        <button>Clear</button>
+      </div>
     </div>
   );
 };
